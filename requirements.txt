@@ -1,0 +1,5 @@
+selenium
+telethon
+hachoir
+yt-dlp
+picta-dl
