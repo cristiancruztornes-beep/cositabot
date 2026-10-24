@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+descargas/
+vistos.db
+*.session
+*.session-journal
+.env
